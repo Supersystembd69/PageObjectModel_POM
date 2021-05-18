@@ -10,7 +10,7 @@ import com.Pages.FacebookSignUpPage;
 
 import Datahelper.ExcelFileReader;
 
-public class FacebookSignUpTest extends BaseClass{
+public class FacebookSignUp extends BaseClass{
 	private String filePath = "E:\\CompanyData\\FacebookData.xlsx";
     private String sheetName = "Data1";
 	

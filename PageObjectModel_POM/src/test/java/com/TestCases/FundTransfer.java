@@ -14,7 +14,7 @@ import com.Pages.FundTransferPage;
 import Datahelper.ExcelFileReader;
 
 
-public class FundTransferTest extends  BaseClass{
+public class FundTransfer extends  BaseClass{
 	
 	private String filePath = "E:\\CompanyData\\ExeclData.xlsx";
     private String sheetName = "FundTransfer";

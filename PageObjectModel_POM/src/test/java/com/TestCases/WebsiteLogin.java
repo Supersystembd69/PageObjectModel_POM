@@ -16,7 +16,7 @@ import Datahelper.*;
 
 
 
-public class WebsiteLoginTest extends BaseClass {
+public class WebsiteLogin extends BaseClass {
 	
 	
 	 	private String filePath = "E:\\CompanyData\\ExeclData.xlsx";
